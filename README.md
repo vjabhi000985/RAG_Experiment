@@ -18,7 +18,7 @@ This project demonstrates the RAG system's capabilities by focusing on answering
 - (Optional) Programming Language: Python (if applicable)
 
 ## How to Run (if applicable):
-- Clone this repository: git clone https://github.com/your-username/rag-llm-enhanced-qa
+- Clone this repository: `#### git clone https://github.com/vjabhi000985/RAG_Experiment`
 - Install required dependencies (refer to project documentation if needed).
 - Run the script to launch the RAG system (refer to project documentation if needed).
 
